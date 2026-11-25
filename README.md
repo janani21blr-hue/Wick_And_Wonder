@@ -7,6 +7,7 @@ Wick & Wonder is a fictional futuristic potion café website featuring an immers
 ## 🌐 Live Demo
 
 [Visit Wick & Wonder](https://comet-cameo-42709820.figma.site)
+On netlify: https://wick-and-wonder.netlify.app
 
 ## ✨ Features
 
